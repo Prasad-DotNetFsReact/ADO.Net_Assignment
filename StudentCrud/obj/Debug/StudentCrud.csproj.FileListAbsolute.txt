@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\obj\Debug\StudentCrud.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\obj\Debug\StudentCrud.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\bin\Debug\StudentCrud.exe.config
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\bin\Debug\StudentCrud.exe
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\bin\Debug\StudentCrud.pdb
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\obj\Debug\StudentCrud.exe
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\obj\Debug\StudentCrud.pdb
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\StudentCrud\StudentCrud\obj\Debug\StudentC.C7000424.Up2Date
